@@ -10,5 +10,12 @@ public class A {
 	{
 		System.out.println("Hi");
 	}
-
+    public int m2()
+    {
+    	System.out.println("m2");
+    	int m2=0;
+    	return m2;
+    	
+    	
+    }
 }
